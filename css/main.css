@@ -11,6 +11,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    margin-bottom: 20px;
 }
 a {
     text-decoration: none;
@@ -30,7 +31,7 @@ p {
 }
 footer {
 
-    margin-bottom: 3cm;
+    
 
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
