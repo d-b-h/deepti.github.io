@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 
-title: Deepti Hegde
+name: Deepti Hegde
+markdown: kramdown
