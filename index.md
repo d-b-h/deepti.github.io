@@ -2,13 +2,49 @@
 
 <img src="deepti_crop.jpg" alt="drawing" width="200" ALIGN="left" HSPACE=”50” VSPACE=”50” />
 I'm a first year PhD student in ECE at Johns Hopkins University guided by Dr. Vishal Patel. I am interested in 3D scene unserstanding and representation learning. 
-&nbsp
 
-&nbsp
 
-&nbsp
 
-&nbsp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### *News*
 
