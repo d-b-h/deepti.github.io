@@ -8,8 +8,8 @@ I'm a first year PhD student in ECE at Johns Hopkins University guided by Dr. Vi
 
 ### *News*
 
-   - I will be presenting my undergrad thesis work on single underwater image restoration at WiCV workshop at ECCV 2020.
-   - I have joined the VIU lab at Johns Hopkins!
+   - I will be presenting my undergrad thesis work on single underwater image restoration at [WiCV](https://sites.google.com/view/wicv/) workshop at ECCV 2020.
+   - I have joined the [VIU lab](https://engineering.jhu.edu/vpatel36/) at Johns Hopkins!
 
 
 
